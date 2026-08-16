@@ -1,7 +1,7 @@
 ---
 title: "I moved StoryKept from a $0 host to a $19/month one on purpose"
 description: "Why I moved StoryKept off a free frontend host to a $19/month Hetzner VPS and S3-compatible bucket and the two things that didn't just work."
-pubDate: 2026-08-18
+pubDate: 2026-08-15
 draft: false
 ---
 
